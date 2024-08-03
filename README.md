@@ -85,7 +85,3 @@ The control unit generates the necessary control signals to coordinate the opera
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
----
-
-Thank you for using the MIPS 32-Bit CPU simulation project. We hope it enhances your understanding of CPU design and the MIPS architecture.
